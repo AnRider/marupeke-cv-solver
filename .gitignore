@@ -1,0 +1,11 @@
+# Files not included in repository info
+
+# Virtual enviorement
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
